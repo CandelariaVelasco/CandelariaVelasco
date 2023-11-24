@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CandelariaVelasco
 - 👀 I’m interested in coding and drawing so far.
-- 🌱 I’m currently learning Responsive web design with html and css 
+- 🌱 I’m currently learning Javascript 
 - 📫 How to reach me: my mail candelariavelasco999@gmail.com
 
 <!---
